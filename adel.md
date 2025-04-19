@@ -89,7 +89,8 @@ Na entrega do sistema, a Adel ganhará **um sistema exclusivo de bônus surpresa
 - Treinamento supervisionado da IA com linguagem da marca
 - Integração com múltiplos canais e plataformas
 - Suporte completo + sistema bônus gratuito
-
+  
+---
 
 CNPJ: 51.034.990/0001-10
 
