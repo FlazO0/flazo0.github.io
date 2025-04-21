@@ -92,6 +92,23 @@ Na entrega do sistema, a Adel ganhará **um sistema exclusivo de bônus surpresa
   
 ---
 
+O ambiente de testes já está disponível! Você pode acessar por aqui:  
+🔗 [https://adel.flazo0.xyz/](https://adel.flazo0.xyz/)
+
+Para iniciar os testes, é bem simples:  
+1. Acesse a página.  
+2. Clique em **"Fale com a Vivy 💬"**.  
+3. O chat será aberto.  
+4. Digite o que quiser testar no campo de mensagem (input).  
+5. Depois, basta pressionar **Enter** ou clicar em **"Enviar"**.
+
+🔍 **Importante observar:**  
+- A base de treinamento atual é **pequena e fictícia**, utilizada apenas para fins de demonstração.  
+- Por isso, é **normal que ocorram falhas na comunicação** ou respostas limitadas.  
+- Sinta-se à vontade para testar de todas as formas possíveis — quanto mais variedade, melhor conseguimos aprimorar!
+
+---
+
 CNPJ: 51.034.990/0001-10
 
 EMAIL: contact@flazo0.xyz
